@@ -1,0 +1,24 @@
+.nav-item{
+    padding-left: 15px;
+}
+body{
+    background-color: black;
+}
+
+a:hover{
+    border: 2px rgb(0, 0, 0);
+    box-shadow: rgb(0, 0, 0) 0px 0px 15px 1px inset,
+                    rgb(0, 0, 0) 0px 0px 15px 1px;
+    border-radius: 15px;
+}
+
+.A{
+    background-color: white;
+    width: 900px;
+    height: 100%;
+    padding:24px 48px
+}
+
+.row{
+    padding: 15px;
+}
