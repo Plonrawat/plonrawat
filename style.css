@@ -1,24 +1,38 @@
-.nav-item{
-    padding-left: 15px;
+.nav {
+    padding-left: 28px;
 }
-body{
+
+body {
     background-color: black;
 }
 
-a:hover{
-    border: 2px rgb(0, 0, 0);
-    box-shadow: rgb(0, 0, 0) 0px 0px 15px 1px inset,
-                    rgb(0, 0, 0) 0px 0px 15px 1px;
-    border-radius: 15px;
-}
 
-.A{
+.A {
     background-color: white;
-    width: 900px;
-    height: 100%;
-    padding:24px 48px
+    height: auto;
+}
+.A1 {
+    background-color: white;
+    height: 800px;
 }
 
-.row{
-    padding: 15px;
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    padding-top: 30%;
+}
+
+.B{
+    padding-left: 140px;
+    text-align: center;
+}
+.C{
+    padding-left: 140px;
+    margin-top: 10px;
+}
+
+.ID{
+    margin-top: 50px;
+    margin-left: 50px;
 }
