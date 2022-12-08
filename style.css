@@ -13,7 +13,7 @@ body {
 }
 .A1 {
     background-color: white;
-    height: 800px;
+    height: 700px;
 }
 
 
@@ -31,8 +31,33 @@ h1 {
     padding-left: 140px;
     margin-top: 10px;
 }
-
 .ID{
     margin-top: 50px;
     margin-left: 50px;
+}
+.text1{
+    color: black;
+    font-size: 45px;
+    margin-top: 20px;
+}
+.text2{
+    margin-left: 95px;
+}
+.text3{
+    margin-left: 150px;
+}
+
+.text4{
+    font-size: 45px;
+    margin-left: 150px;
+}
+
+.test1{
+    margin-top: 100px;
+}
+.pt{
+    height: 250px;
+    width:  250px;
+    margin-top: 20px;
+    margin-left: 95px;
 }
